@@ -4,7 +4,6 @@ window.GAME_PRIVATE_DATA = Object.freeze({
    "Class: 3/6 N°: 28",
     "Class: TX-10 N°: 01",
     "Class: 1 bac-9 N°: 01",
-    "Class: 2 bac-pc 6 N°: 01",
-    "MOHAMED OUAATTOUS N3328"
+    "Class: 2 bac-pc 6 N°: 01"
   ]
 });
